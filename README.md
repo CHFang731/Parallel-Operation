@@ -1,2 +1,2 @@
 # Parallel-Operation
-PO final proj
+PO final proj(Subset Sum)
